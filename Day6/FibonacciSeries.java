@@ -1,5 +1,3 @@
-package com.bridgelabz.Day6;
-
 import java.util.Scanner;
 
 public class FibonacciSeries {
