@@ -1,3 +1,5 @@
+// Calculating Wages for a Month
+
 public class EmpWageFor {
    public static final int IS_PART_TIME = 1;
    public static final int IS_FULL_TIME = 2;

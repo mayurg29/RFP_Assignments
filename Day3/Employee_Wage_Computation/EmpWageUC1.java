@@ -1,3 +1,5 @@
+// Checking if Employee is Present or Absent
+
 public class EmpWageUC1 {
    public static void main(String[] args) {
        int IS_FULL_TIME = 1;

@@ -1,3 +1,5 @@
+// Added Part time Employee & Calculating Wage
+
 public class EmpWageUC3 {
    public static void main(String[] args) {
        int IS_PART_TIME = 1;

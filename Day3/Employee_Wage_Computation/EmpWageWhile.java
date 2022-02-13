@@ -1,3 +1,5 @@
+// Calculating Wages till Number of Working Days or Total Working Hours per Month is Reached
+
 public class EmpWageWhile {
    public static final int IS_PART_TIME = 1;
    public static final int IS_FULL_TIME = 2;

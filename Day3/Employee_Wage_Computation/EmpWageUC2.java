@@ -1,4 +1,6 @@
- public class EmpWageUC2 {
+// Calculating Daily Employee Wage
+ 
+public class EmpWageUC2 {
    public static void main(String[] args) {
        int IS_FULL_TIME = 1;
        int EMP_RATE_PER_HR = 20;
