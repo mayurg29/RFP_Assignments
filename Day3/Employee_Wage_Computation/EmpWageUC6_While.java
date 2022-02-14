@@ -24,9 +24,11 @@ public class EmpWageUC6_While {
            }
            totalEmpHrs += empHrs;
            int empWage = empHrs * EMP_RATE_PER_HR;
-           totalEmpWage += empWage;
+           System.out.println("Day: " + totalWorkingDays + " Emp Hr: " + empHrs);
            System.out.println("Emp Wage = " + empWage);
+           System.out.println();
        }
+       totalEmpWage = totalEmpHrs * EMP_RATE_PER_HR;
        System.out.println("totalEmpHrs = " + totalEmpHrs);
        System.out.println("Total Emp Wage = " + totalEmpWage);
    }
